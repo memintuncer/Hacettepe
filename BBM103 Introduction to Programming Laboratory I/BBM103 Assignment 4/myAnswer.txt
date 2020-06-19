@@ -1,0 +1,5 @@
+MSE value of 2012 USA election is 0.023420000000000052
+The number of MSE of random samples which are larger than or equal to USA election MSE is 3835
+The number of MSE of random samples which are smaller than USA election MSE is 6165
+2012 USA election rejection level p is 0.6165
+Finding: There is no statistical evidence to reject null hypothesis
